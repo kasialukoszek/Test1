@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jenkinsexample/!svn/ver/11/trunk/JenkinsBeispiel/src/test/java/de/philulay/jenkinsbeispiel
+END
+WahrFalschTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jenkinsexample/!svn/ver/4/trunk/JenkinsBeispiel/src/test/java/de/philulay/jenkinsbeispiel/WahrFalschTest.java
+END
+FibonacciTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jenkinsexample/!svn/ver/4/trunk/JenkinsBeispiel/src/test/java/de/philulay/jenkinsbeispiel/FibonacciTest.java
+END
+TestNGTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jenkinsexample/!svn/ver/10/trunk/JenkinsBeispiel/src/test/java/de/philulay/jenkinsbeispiel/TestNGTests.java
+END
+AdwTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jenkinsexample/!svn/ver/11/trunk/JenkinsBeispiel/src/test/java/de/philulay/jenkinsbeispiel/AdwTest.java
+END
+FakultaetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jenkinsexample/!svn/ver/4/trunk/JenkinsBeispiel/src/test/java/de/philulay/jenkinsbeispiel/FakultaetTest.java
+END

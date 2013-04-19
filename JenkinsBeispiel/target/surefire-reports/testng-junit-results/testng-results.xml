@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="9" started-at="2011-10-05T18:08:22Z" finished-at="2011-10-05T18:08:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9" started-at="2011-10-05T18:08:22Z" finished-at="2011-10-05T18:08:22Z">
+      <class name="de.philulay.jenkinsbeispiel.WahrFalschTest">
+        <test-method status="PASS" signature="testWahrFalsch()" name="testWahrFalsch" duration-ms="1" started-at="2011-10-05T18:08:22Z" finished-at="2011-10-05T18:08:22Z">
+        </test-method>
+      </class>
+      <class name="de.philulay.jenkinsbeispiel.FakultaetTest">
+        <test-method status="PASS" signature="testFakultaet()" name="testFakultaet" duration-ms="0" started-at="2011-10-05T18:08:22Z" finished-at="2011-10-05T18:08:22Z">
+        </test-method>
+      </class>
+      <class name="de.philulay.jenkinsbeispiel.AdwTest">
+        <test-method status="PASS" signature="testAd()" name="testAd" duration-ms="0" started-at="2011-10-05T18:08:22Z" finished-at="2011-10-05T18:08:22Z">
+        </test-method>
+      </class>
+      <class name="de.philulay.jenkinsbeispiel.FibonacciTest">
+        <test-method status="PASS" signature="testFibonacci()" name="testFibonacci" duration-ms="0" started-at="2011-10-05T18:08:22Z" finished-at="2011-10-05T18:08:22Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
